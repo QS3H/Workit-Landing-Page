@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/workit-landing-page-with-css-animations-and-keyframes-qD-KIqn6tl)
+- Live Site URL: [live site](https://qs3h.github.io/Workit-Landing-Page/)
 
 ## My process
 
